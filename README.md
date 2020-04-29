@@ -3,7 +3,8 @@ Codes for reproducing the results of the paper "Bridging Mode Connectivity in Lo
 
 Pleas go to the corresponding directory for more information
 
-
+## Cite
+```
 @inproceedings{
 Zhao2020Bridging,
 title={Bridging Mode Connectivity in Loss Landscapes and Adversarial Robustness},
@@ -12,3 +13,4 @@ booktitle={International Conference on Learning Representations},
 year={2020},
 url={https://openreview.net/forum?id=SJgwzCEKwH}
 }
+```
